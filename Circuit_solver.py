@@ -1,7 +1,7 @@
 """
 EE2703 Applied Programming Lab - 2022
 Assignment 2: Solution
-Jarpla Yashwanth - EE20B048
+Varun Mudavath - EE20B085
 26th January 2021
 """
 
